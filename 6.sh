@@ -15,4 +15,4 @@ chmod 777 hus
 
 # Chạy file hus trong screen
 #screen -dmS hus_session ./hus
-./hus
+
